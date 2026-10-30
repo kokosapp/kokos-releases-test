@@ -3,4 +3,4 @@
 Wersje robocze do testów wewnętrznych. Nie są przeznaczone do instalacji -
 mogą nie działać i znikać bez uprzedzenia.
 
-Program dla wszystkich: https://kokosapp.pl/pobierz/
+Pobranie programu: https://kokosapp.pl/pobierz/ Kontakt: kontakt@kokosapp.pl
